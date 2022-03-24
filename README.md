@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Eva Lin from Taiwan
+- 👋 Hi, I’m Eva Lin, a self-taught passionate learner from Taiwan
 - 👀 I’m interested in frontend and UI/UX design
 - 🌱 I’m currently learning react.js / bootstrap and takeing the course on Coursera of UX design
-- :loudspeaker:The things I code with: HTML/CSS/JS/jquery/bootstrap/RWD
+- :computer: The things I code with: HTML/CSS/JS/jquery/bootstrap/RWD
+- :memo: Programs I use: VSCode / Adobe XD
 - 📫 How to reach me: evalin1013@gmail.com
 
 <!---
